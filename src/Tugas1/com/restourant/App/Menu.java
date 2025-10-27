@@ -31,3 +31,4 @@ public class Menu {
         return nama + " - Rp" + harga;
     }
 }
+
