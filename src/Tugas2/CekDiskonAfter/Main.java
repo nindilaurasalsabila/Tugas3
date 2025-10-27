@@ -133,4 +133,20 @@ public class Main {
         System.out.printf("Total Bayar          : Rp%.2f%n", total);
     }
 }
-
+/**
+ * git remote add origin https://github.com/nindilaurasalsabila/Tugas3
+ *      git init
+ *      git add .
+ *      git commit -m "Menambahkan Nama"
+ *      git remote add origin https://github.com/nindilaurasalsabila/Tugas3
+ *      git push origin main
+ *
+ *      git branch -M main
+ *      git push -u origin main
+ *
+ *      git checkout -b feature/add-fuel-efficiency
+ *      git add SpaceMissionAfter.java
+ *      git commit -m "Add fuel efficiency calculator method"
+ *      git checkout main
+ *      git merge feature/add-fuel-efficiency
+ */

@@ -68,7 +68,7 @@ Total Bayar : Rp220000.00
 ---
 
 ##  Identitas
-**Nama:** Nindi  
+**Nama:** Nindi Laura Salsabila
 **Kelas:** Pemrograman Lanjut  
 **Universitas:** UMM  
 **Dosen:** Ir. Wildan Suharso, M.Kom.
